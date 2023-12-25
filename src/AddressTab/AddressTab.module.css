@@ -1,0 +1,6 @@
+.AddressTab {
+  display: inline-flex;
+  background-color: #f4f0f0;
+  width: 100%;
+  justify-content: center;
+}

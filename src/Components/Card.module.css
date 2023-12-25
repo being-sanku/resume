@@ -1,0 +1,14 @@
+.card {
+  height: 250px;
+  /* width: 25%; */
+  /* width: 70%; */
+  border: 2px solid #1bcedf;
+  border-radius: 3%;
+  background: linear-gradient(#2cbfaa, #1bcedf);
+  margin: 20px;
+  color: white;
+}
+
+.title {
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}

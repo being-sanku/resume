@@ -1,0 +1,17 @@
+.NameDetails {
+  text-align: left;
+  padding-left: 170px;
+}
+
+.Name {
+  font-size: 40px;
+  margin-bottom: -10px;
+}
+.Designation {
+  color: grey;
+  font-size: 20px;
+}
+
+.Description {
+  font-size: 13px;
+}

@@ -1,0 +1,15 @@
+.title {
+  color: #2cc0af;
+  font-size: 20px;
+}
+.topic {
+  font-size: 15px;
+  font-weight: 750;
+}
+
+.container {
+  display: block;
+  text-align: left;
+  padding-left: 50px;
+  padding-right: 50px;
+}

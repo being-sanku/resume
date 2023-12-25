@@ -1,0 +1,14 @@
+.skillButton {
+  background-color: #2cbfaa;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10%;
+  border: #2cbfaa solid;
+  color: white;
+  box-shadow: #2cbfaa 5px 2px;
+}
+
+.title {
+  color: #2cc0af;
+  font-size: 20px;
+}

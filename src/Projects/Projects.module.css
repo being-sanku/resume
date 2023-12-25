@@ -1,0 +1,9 @@
+.Container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.title {
+  color: #2cc0af;
+  font-size: 20px;
+}
