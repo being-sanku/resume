@@ -8,7 +8,7 @@ function TicTacToe(props) {
 
   const winnerFound = (w) => {
     setWinner(w);
-    alert(winner === 1 ? "Player X wins" : "Player O wins");
+    alert(winner === 1 ? "Player X wins" : "Player O   wins");
   };
   const resetBoard = () => {
     setReset(true);
